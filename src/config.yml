@@ -1,0 +1,10 @@
+portal_enabled: true
+portal_location: X:0, Y:0, Z:0
+portal_world: "world"
+
+survival_world: "world"
+
+x_min: -1000
+x_max: 1000
+z_min: -1000
+z_max: 1000
